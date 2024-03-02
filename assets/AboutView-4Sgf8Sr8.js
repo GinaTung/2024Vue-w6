@@ -1,0 +1,1 @@
+import{_ as t,c as o,b as s,w as a,a as c,r as n,o as r,d as _}from"./index-xuA4CH-k.js";const i={},d={class:"text-center my-3"},p=c("h2",null,"This is About page.",-1);function u(l,f,m,h,x,k){const e=n("RouterLink");return r(),o("div",d,[p,s(e,{to:"/"},{default:a(()=>[_("回首頁")]),_:1})])}const $=t(i,[["render",u]]);export{$ as default};

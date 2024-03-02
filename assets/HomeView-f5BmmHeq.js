@@ -1,0 +1,1 @@
+import{_ as t,c as o,b as s,w as a,a as c,r as n,o as r,d as _}from"./index-xuA4CH-k.js";const d={},i={class:"home text-center my-3"},l=c("h1",{class:"text-danger"},"Hello, This is Home Page.",-1);function m(p,u,f,h,x,k){const e=n("RouterLink");return r(),o("div",i,[l,s(e,{to:"/about"},{default:a(()=>[_("About")]),_:1})])}const $=t(d,[["render",m]]);export{$ as default};
