@@ -1,9 +1,7 @@
 <template>
-  <div class="home">
+  <div class="home text-center my-3">
     <h1 class="text-danger">Hello, This is Home Page.</h1>
-    <hr>
-    <RouterLink to="/">Home</RouterLink> |
-    <RouterLink to="/about">About</RouterLink> |
+    <RouterLink to="/about">About</RouterLink>
   </div>
 
 </template>

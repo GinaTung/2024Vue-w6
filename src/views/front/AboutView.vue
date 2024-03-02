@@ -1,7 +1,8 @@
 <template>
-  <h1>This is About page.</h1>
-  <RouterLink to="/">Home</RouterLink> |
-  <RouterLink to="/about">About</RouterLink>
+  <div class="text-center my-3">
+    <h2>This is About page.</h2>
+    <RouterLink to="/">回首頁</RouterLink>
+  </div>
 </template>
 
 <script>

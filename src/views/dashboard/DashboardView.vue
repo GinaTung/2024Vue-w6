@@ -1,11 +1,13 @@
 <template>
-    這是後台
-    <nav>
+  <div class="container my-5">
+    <h2 class="text-center fw-bold">後台管理</h2>
+    <nav class="text-center">
         <RouterLink to="/admin/products">產品列表</RouterLink> |
         <RouterLink to="/admin/orders">訂單列表</RouterLink> |
         <RouterLink to="/">回前台</RouterLink> |
     </nav>
     <RouterView></RouterView>
+  </div>
 </template>
 <script>
 import axios from 'axios';
